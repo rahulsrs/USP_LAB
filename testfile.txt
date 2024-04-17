@@ -1,0 +1,4 @@
+Hello, world!
+Locked file content
+Unlocked file content
+ 
